@@ -1,17 +1,8 @@
-# Zomato Banagalore Restaurant Data Analysis
+# Zomato Restaurant Data Analysis
 
 ![img](img1.jpg)
 
-## You can find the well documented and detailed approach here : [link](https://medium.com/@shubhankarrawatsam.1999/zomato-bangalore-data-analysis-6ee83652890f)
 
-Bangalore(officially known as Bengaluru) is the capital and largest city of the Indian state of Karnataka. 
-With a population of over 15 million, Bangalore is the third largest city in India and 27th largest city in the world.
-
-Bangalore has a unique food culture. Restaurants from all over the world can be found here in Bengaluru, with various kind of cuisines.
-Some might even say that Bangalore is the best place for foodies.
-
-The growing number of restaurants and dishes in Bangalore is what attracts me to inspect the data to get some insights, some interesting facts and figures.
-So, in this project I will be analyzing the Zomato restaurant data for the city, Bangalore.
 
 ## Data
 
